@@ -9,6 +9,7 @@
 ## 🚀 About Me
 
 🎓 B.Tech Student [2028]
+
 ⚡ Passionate about Systems Engineering and Databases
 🛠️ Crafting real-world applications and schemas
 🌱 Constantly learning and improving my code
