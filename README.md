@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish VS</h1>
 
-<p align="center">
-  <img [src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;IST+student;Constant+Learner ](https://readme-typing-svg.herokuapp.com/demo/?lines=Software+Developer;IST+Student;Constant+Learner)&center=true&width=500&height=45">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;IST+Student;Constant+Learner" alt="Typing SVG" /></a>
 
 ---
 
