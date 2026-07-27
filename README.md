@@ -1,26 +1,20 @@
-<h1 align="center">Hi , I'm Harish VS</h1>
-<h3 align="center">
-Software Developer | IST student | Constant Learner
-</h3>
+<h1 align="center">Hi 👋, I'm Harish VS</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;IST+student;Constant+Learner &center=true&width=500&height=45">
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
--🎓 B.Tech Student [Year]
+🎓 B.Tech Student [2028]
 ⚡ Passionate about Systems Engineering and Databases
 🛠️ Crafting real-world applications and schemas
 🌱 Constantly learning and improving my code
-🎯 Future Tech Professional
+🎯 Future Tech Professional  
 
-- Open to collaborating on exciting web development and open-
+Open to collaborating on exciting web development and open-
 source projects.
 
 - Always exploring modern technologies and best development
@@ -30,161 +24,68 @@ useful applications.**
 
 ---
 
-## Connect With Me
+## 🧠 Tech Stack
 
-<p align="left">
-<a href="[LinkedIn URL]">
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
-the-badge&logo=linkedin"/>
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-</a>
-<a href="[Portfolio URL]">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
-the-badge&logo=vercel"/>
-
-</a>
-<a href="mailto:[Email Address]">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail"/>
-
-</a>
-</p>
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
 ---
 
-# Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
-</p>
-
----
-
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and
-experience.
-
-**Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
-Live Demo: [Portfolio URL]
-Repository: [GitHub Repository]
-
----
-
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart
-functionality.
-**Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
-
----
-
-## Task Management App
-A productivity application to organize daily tasks with
-authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
-
----
-
-# GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harish&show_icons=true&theme=tokyonight">
 </p>
-
----
-
-# GitHub Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
-</p>
-
----
-
-# GitHub Trophies
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?
-
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
-w=10"/>
-
-</p>
-
----
-
-# 🛠 Currently Working On
-- Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and DevOps.
-- Improving responsive UI/UX design.
-
----
-
-# Currently Learning
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
-
----
-
-# Goals for 2025
-
-- Contribute to Open Source
-- Build SaaS Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
-
----
-
-# Favorite Quote
-
-> "Code is like humor. When you have to explain it, it's bad." –
-Cory House
-
----
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish&layout=compact&theme=tokyonight">
 </p>
 
 ---
 
-<h3 align="center">
-Thanks for visiting my profile!
-</h3>
+## 🏆 GitHub Trophy
+
 <p align="center">
-If you like my work, consider giving a to my repositories and
-connecting with me.
+<img src="https://github-profile-trophy.vercel.app/?username=Harish&theme=tokyonight">
 </p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Harish&color=blue">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Harish/Harish/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+LinkedIn  
+https://www.linkedin.com/in/vsharishvs/
+
+GitHub  
+https://github.com/harishvs-crypto
+
+---
+
+🛠️ Assembling ideas, block by block.
