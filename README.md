@@ -14,14 +14,6 @@
 🌱 Constantly learning and improving my code
 🎯 Future Tech Professional  
 
-Open to collaborating on exciting web development and open-
-source projects.
-
-- Always exploring modern technologies and best development
-practices.
-- Fun Fact: **I love solving coding challenges and building
-useful applications.**
-
 ---
 
 ## 🧠 Tech Stack
