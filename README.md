@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Software+Developer;Systems+%26+Database+Enthusiast;B.Tech+IST+Student;Constant+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Software+Developer;Automation+%26+DBMS+Enthusiast;B.Tech+IST+Student;Constant+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,11 +17,11 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech student in Information Science & Technology (batch of 2028)
-- ⚡ Passionate about **systems engineering** and **databases**
-- 🛠️ I build real-world applications and design clean schemas
-- 🌱 Currently learning: *(add: e.g. distributed systems, query optimisation, cloud security)*
-- 🔭 Currently working on: *(add your current project)*
-- 💬 Ask me about: Python, Java, SQL, database design
+- ⚡ Focused on **software development**, **automation** and **DBMS**
+- 🔐 Built a blockchain-based credential verification platform (CertiChain-Nexus)
+- 🤟 Built an AI sign-language translator using computer vision and deep learning (SignBridge)
+- 🌱 Constantly learning and improving my code
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vsharishvs/)
 
 ---
 
@@ -39,6 +39,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**🤖 AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 **⚙️ Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,14 +53,23 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Project One**](https://github.com/harishvs-crypto/REPO-NAME) | One line on what it does and why it matters | Python, SQL |
-| [**Project Two**](https://github.com/harishvs-crypto/REPO-NAME) | One line on what it does and why it matters | Java, Firebase |
-| [**Project Three**](https://github.com/harishvs-crypto/REPO-NAME) | One line on what it does and why it matters | JavaScript, HTML/CSS |
+<p align="center">
+  <a href="https://github.com/harishvs-crypto/CertiChain-Nexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harishvs-crypto&repo=CertiChain-Nexus&theme=tokyonight&hide_border=true" alt="CertiChain-Nexus"/>
+  </a>
+  <a href="https://github.com/harishvs-crypto/Capstone-SignBridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harishvs-crypto&repo=Capstone-SignBridge&theme=tokyonight&hide_border=true" alt="Capstone-SignBridge"/>
+  </a>
+</p>
 
-> Or use pinned repos: <br/>
-> <a href="https://github.com/harishvs-crypto/REPO-NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harishvs-crypto&repo=REPO-NAME&theme=tokyonight" alt="Pinned repo"/></a>
+<p align="center">
+  <a href="https://github.com/harishvs-crypto/SPENDWISE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harishvs-crypto&repo=SPENDWISE&theme=tokyonight&hide_border=true" alt="SPENDWISE"/>
+  </a>
+  <a href="https://github.com/harishvs-crypto/Fetch-A-Thon_HakkuAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harishvs-crypto&repo=Fetch-A-Thon_HakkuAI&theme=tokyonight&hide_border=true" alt="Fetch-A-Thon HakkuAI"/>
+  </a>
+</p>
 
 ---
 
