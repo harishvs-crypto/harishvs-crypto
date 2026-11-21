@@ -86,11 +86,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harishvs-crypto&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
+- 🏅 Participated in **Fetch-A-Thon** ([HakkuAI](https://github.com/harishvs-crypto/Fetch-A-Thon_HakkuAI))
+- 🎓 Capstone project: AI-powered Indian Sign Language translator ([SignBridge](https://github.com/harishvs-crypto/Capstone-SignBridge))
+- 📜 Certifications: [view my certificates](https://github.com/harishvs-crypto/certificates)
+- 🎖️ [GitHub Achievements](https://github.com/harishvs-crypto?tab=achievements)
 
 ---
 
